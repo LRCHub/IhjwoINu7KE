@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Chase the Light!",
+  "base_artist": "Fear, and Loathing in Las Vegas",
+  "createdAt": "2025-12-30T05:36:48.503903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chase the Light!",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": false,
+      "path": "select/01_Chase_the_Light!_Fear,_and_Loathing_in_Las_Vegas.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chase the Light",
+      "artist": "Dope Stars Inc.",
+      "has_synced": false,
+      "path": "select/02_Chase_the_Light_Dope_Stars_Inc..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chase the Light",
+      "artist": "Palace",
+      "has_synced": true,
+      "path": "select/03_Chase_the_Light_Palace.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Just Chase The Light",
+      "artist": "Low Hanging Fruits",
+      "has_synced": true,
+      "path": "select/04_We_Just_Chase_The_Light_Low_Hanging_Fruits.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chase the Light!",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/05_Chase_the_Light!_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chase the Light! <TV size>",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/06_Chase_the_Light!__TV_size_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chase the Light (feat. Mokita)",
+      "artist": "Shoffy",
+      "has_synced": true,
+      "path": "select/07_Chase_the_Light_(feat._Mokita)_Shoffy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Chase the Light",
+      "artist": "the innocence mission",
+      "has_synced": false,
+      "path": "select/08_You_Chase_the_Light_the_innocence_mission.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chase The Light! -ヒャダインのリリリリ☆リミックス-",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/09_Chase_The_Light!_-ヒャダインのリリリリ☆リミックス-_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chase the Light! <TV size>",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/10_Chase_the_Light!__TV_size_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chase the Light",
+      "artist": "Matt Wertz",
+      "has_synced": true,
+      "path": "select/11_Chase_the_Light_Matt_Wertz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chase the Light! (TV size)",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/12_Chase_the_Light!_(TV_size)_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chase the Light",
+      "artist": "Matt Mays",
+      "has_synced": false,
+      "path": "select/13_Chase_the_Light_Matt_Mays.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You Chase the Light",
+      "artist": "Innocence Mission",
+      "has_synced": true,
+      "path": "select/14_You_Chase_the_Light_Innocence_Mission.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chase The Light",
+      "artist": "Shoffy",
+      "has_synced": true,
+      "path": "select/15_Chase_The_Light_Shoffy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chase the Light!",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": false,
+      "path": "select/pl_01_Chase_the_Light!_Fear,_and_Loathing_in_Las_Vegas.txt"
+    }
+  ]
+}
